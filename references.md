@@ -1,0 +1,87 @@
+# References
+
+- **EISENBERG, Greg** [Canal]. *How To Create Ai Agents From Scratch (CrewAI, Zapier, Cursor)*. [S. l.]: Greg Isenberg, [data de upload não especificada]. Disponível em: [https://www.youtube.com/watch?v=mu0P4nQEw_0](https://www.youtube.com/watch?v=mu0P4nQEw_0). Acesso em: [data atual de acesso].. [i].
+- **MOURA, João**. Prefácio. In: CREWAI. *01___CrewAI_Livro_Básico - Branco*. [S. l.]: [s. n.], [ano não informado]. p. 3.. [i, 3].
+- **GOMES, Davidson**. Prefácio. In: [AGENTES INTELIGENTES 2 - CREWAI INTERMEDIÁRIO-2]. *2025-01-24 - BIG - Agentes Inteligentes 2 - CrewAI Intermediário-2*. [S. l.]: [s. n.], 2025. p. 3.. [i, 65].
+- **BARRETT, Daniel; SILVERMAN, Richard; BYRNES, Robert**. *SSH The Secure Shell: The Definitive Guide*. Sebastopol, CA: O’Reilly Media, 2005.. [i, 112].
+- **BAUER, Kirk**. *Automating UNIX and Linux Administration*. New York: Apress, 2003.. [i, 112].
+- **CLARK, Mike**. *Pragmatic Project Automation: How to Build, Deploy, and Monitor Java Applications*. Raleigh, NC: Pragmatic Bookshelf, 2004.. [i, 112].
+- **CONWAY, Damien**. *Perl Best Practices*. Sebastopol, CA: O’Reilly Media, 2005.. [i, 112].
+- **DOBIES, Jason; WOOD, Joshua**. *Kubernetes Operators*. Sebastopol, CA: O’Reilly Media, 2020.. [i, 112].
+- **HONÓRIO, Rebeca**. *CrewAI: para iniciantes em automação com Python*. Asimov Academy, 11 mar. 2025. Disponível em: [https://asimov.academy/blog/aplicacoes-ia/crewai-para-iniciantes-em-automacao-com-python/](https://asimov.academy/blog/aplicacoes-ia/crewai-para-iniciantes-em-automacao-com-python/). Acesso em: [data atual de acesso].. [i, 114].
+- **LIMA, Mykael**. Comentário em: HONÓRIO, Rebeca. *CrewAI: para iniciantes em automação com Python*. Asimov Academy, 31 mar. 2025.. [i, 114].
+- **CALHEIROS, Salomao**. Comentário em: HONÓRIO, Rebeca. *CrewAI: para iniciantes em automação com Python*. Asimov Academy, 04 abr. 2025.. [i, 114].
+- **IBM**. *O que é o crewAI?*. [S. l.]: IBM, [data não informada]. Disponível em: [https://www.ibm.com/blogs/research/br/o-que-e-o-crewai/](https://www.ibm.com/blogs/research/br/o-que-e-o-crewai/). Acesso em: [data atual de acesso].. [i, 120].
+- **IBM**. *Como escolher o modelo de base certo*. [S. l.]: IBM, [data não informada]. [E-book].. [i, 122].
+- **IBM**. *IA em ação 2024*. [S. l.]: IBM, 2024. [Relatório].. [i, 122].
+- **Alura** [Canal]. *TUTORIAL: aprenda a criar agentes de IA com a CREW AI | IAs Generativas*. Publicado em: 2024. Disponível em: [https://www.youtube.com/watch?v=eVk45W9jd_Y](https://www.youtube.com/watch?v=eVk45W9jd_Y). Acesso em: [data atual de acesso].. [i, 126].
+- **MOURA, João**. Entrevista no podcast da Asimov Academy.. [i, 138].
+- **CrewAI**. Website. Disponível em: [endereço não especificado nos excertos].. Acesso em: [data atual de acesso].. [i, 127].
+- **CrewAI**. Repositório no GitHub. Disponível em: [endereço não especificado nos excertos].. Acesso em: [data atual de acesso].. [i, 127].
+- **SALES, Janderson de**. *Capa e Ilustrações* de *01___CrewAI_Livro_Básico - Branco*. [S. l.]: [s. n.], [ano não informado].. [i, 1].
+- **SALES, Janderson de**. *Capa e Ilustrações* de *2025-01-24 - BIG - Agentes Inteligentes 2 - CrewAI Intermediário-2*. [S. l.]: [s. n.], 2025.. [i, 62].
+- **Evolution API**. Repositório no GitHub. Disponível em: [https://github.com/EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api). Acesso em: [data atual de acesso].. [i, 97].
+- **Evolution API**. Documentação Oficial. Disponível em: [endereço não especificado nos excertos].. Acesso em: [data atual de acesso].. [i, 97].
+- **CrewAI**. *Ferramentas (Tools)* no Website. Disponível em: [endereço não especificado nos excertos].. Acesso em: [data atual de acesso].. [i, 129].
+- **Groq** [Modelo de Linguagem Natural]. [Informação não disponível nos excertos]. [i, 121].
+- **LangGraph** [Biblioteca]. [Informação não disponível nos excertos]. [i, 121].
+- **Serper Dev Tools** [Ferramenta de Busca na Internet]. Disponível em: [endereço não especificado nos excertos]. Acesso em: [data atual de acesso].. [i, 128].
+- **Scrape Website Tool** [Ferramenta de Mineração de Dados de Websites]. [Informação não disponível nos excertos]. [i, 129].
+- **Search Tool** [Ferramenta de Busca]. [Informação não disponível nos excertos]. [i, 28, 84].
+- **MultiplicationTool** [Ferramenta de Multiplicação]. [Informação não disponível nos excertos]. [i, 68].
+- **CrewAI-Flow** [Framework]. [Informação não disponível nos excertos]. [i, 72].
+- **MyLLM** [Classe para abstração de LLMs]. [Informação não disponível nos excertos]. [i, 68].
+- **dotenv** [Biblioteca Python]. [Informação não disponível nos excertos]. [i, 68, 44, 100].
+- **CrewAI** [Biblioteca Python]. Disponível em: [endereço não especificado nos excertos]. Acesso em: [data atual de acesso].. [i, 9, 44, 68, 126].
+- **crewai\_tools** [Biblioteca Python]. [Informação não disponível nos excertos]. [i, 9, 127].
+- **langchain\_openai** [Biblioteca Python]. [Informação não disponível nos excertos]. [i, 9].
+- **Agent** [Classe do CrewAI]. [Informação não disponível nos excertos]. [i, 9, 14, 68, 44, 58].
+- **Task** [Classe do CrewAI]. [Informação não disponível nos excertos]. [i, 9, 17, 68, 44, 57].
+- **Crew** [Classe do CrewAI]. [Informação não disponível nos excertos]. [i, 9, 27, 68, 44, 56, 134].
+- **Process** [Enumeração do CrewAI]. [Informação não disponível nos excertos]. [i, 9, 27, 68, 44].
+- **Streamlit** [Biblioteca Python]. Disponível em: [https://streamlit.io/](https://streamlit.io/). Acesso em: [data atual de acesso].. [i, 21, 65, 87, 91, 106].
+- **Pydantic** [Biblioteca Python]. Disponível em: [https://pydantic-docs.readthedocs.io/](https://pydantic-docs.readthedocs.io/). Acesso em: [data atual de acesso].. [i, 23].
+- **YAML** [Formato de arquivo]. [Informação não disponível nos excertos]. [i, 38, 41, 45, 54].
+- **Markdown** [Linguagem de marcação]. [Informação não disponível nos excertos]. [i, 29, 31, 44, 58, 60, 137].
+- **Evolution API** [API]. Disponível em: [https://evolution-api.com/](https://evolution-api.com/). Acesso em: [data atual de acesso].. [i, 63, 65, 96, 97, 98, 99, 100, 101].
+- **WhatsApp** [Plataforma de mensagens]. [Informação não disponível nos excertos]. [i, 63, 101].
+- **Facebook** [Plataforma de mídia social]. [Informação não disponível nos excertos]. [i, 63].
+- **Instagram** [Plataforma de mídia social]. [Informação não disponível nos excertos]. [i, 63, 65, 103, 121, 138, 94].
+- **Telegram** [Plataforma de mensagens]. [Informação não disponível nos excertos]. [i, 65, 94].
+- **YouTube API** [API]. Disponível em: [https://developers.google.com/youtube/v3](https://developers.google.com/youtube/v3). Acesso em: [data atual de acesso].. [i, 65, 94].
+- **Selenium** [Ferramenta de automação de navegador]. Disponível em: [https://www.selenium.dev/](https://www.selenium.dev/). Acesso em: [data atual de acesso].. [i, 65].
+- **Postgres** [Banco de dados PostgreSQL]. Disponível em: [https://www.postgresql.org/](https://www.postgresql.org/). Acesso em: [data atual de acesso].. [i, 65].
+- **Streamlit\_option\_menu** [Biblioteca Python para menus Streamlit]. Disponível em: [https://pypi.org/project/streamlit-option-menu/](https://pypi.org/project/streamlit-option-menu/). Acesso em: [data atual de acesso].. [i, 92].
+- **uv** [Gerenciador de dependências Python]. Disponível em: [https://pypi.org/project/uv/](https://pypi.org/project/uv/). Acesso em: [data atual de acesso].. [i, 99].
+- **os** [Módulo Python]. [Informação não disponível nos excertos]. [i, 100, 106].
+- **time** [Módulo Python]. [Informação não disponível nos excertos]. [i, 106].
+- **streamlit** [Biblioteca Python]. Importada como `st`. [Informação não disponível nos excertos]. [i, 106, 91, 93, 94].
+- **evolutionapi.client** [Módulo Python]. [Informação não disponível nos excertos]. [i, 100].
+- **evolutionapi.models.message** [Módulo Python]. [Informação não disponível nos excertos]. [i, 100].
+- **N8N** [Plataforma NoCode]. Disponível em: [https://n8n.io/](https://n8n.io/). Acesso em: [data atual de acesso].. [i, 89].
+- **Flowise** [Plataforma NoCode]. Disponível em: [https://flowiseai.com/](https://flowiseai.com/). Acesso em: [data atual de acesso].. [i, 89].
+- **datetime** [Módulo Python]. [Informação não disponível nos excertos]. [i, 96, 106].
+- **Python display** [Módulo Python]. [Informação não disponível nos excertos]. [i, 137].
+- **Reddit** [Plataforma de mídia social]. Disponível em: [https://www.reddit.com/](https://www.reddit.com/). Acesso em: [data atual de acesso].. [i, 107].
+- **Google Colab** [Ambiente de desenvolvimento Python]. Disponível em: [https://colab.research.google.com/](https://colab.research.google.com/). Acesso em: [data atual de acesso].. [i, 127, 128].
+- **GitHub** [Plataforma de hospedagem de código]. Disponível em: [https://github.com/](https://github.com/). Acesso em: [data atual de acesso].. [i, 88, 93, 97, 127].
+- **Asimov Academy** [Plataforma de aprendizado]. Disponível em: [https://asimov.academy/](https://asimov.academy/). Acesso em: [data atual de acesso].. [i, 114, 138].
+- **IBM Granite** [Família de modelos de IA]. [Informação não disponível nos excertos]. [i, 123].
+- **IBM AI Academy** [Plataforma de aprendizado da IBM]. Disponível em: [https://www.ibm.com/training/ai](https://www.ibm.com/training/ai). Acesso em: [data atual de acesso].. [i, 124].
+- **Alura** [Plataforma de aprendizado online]. Disponível em: [https://www.alura.com.br/](https://www.alura.com.br/). Acesso em: [data atual de acesso].. [i, 126, 139].
+- **FIAP** [Instituição de ensino]. Disponível em: [https://www.fiap.com.br/](https://www.fiap.com.br/). Acesso em: [data atual de acesso].. [i, 138, 139].
+- **PM3** [Empresa de produtos digitais]. Disponível em: [https://pm3.com.br/](https://pm3.com.br/). Acesso em: [data atual de acesso].. [i, 138].
+- **Google** [Motor de busca]. Disponível em: [https://www.google.com/](https://www.google.com/). Acesso em: [data atual de acesso].. [i, 128, 130, 136].
+- **LinkedIn** [Rede social profissional]. Disponível em: [https://www.linkedin.com/](https://www.linkedin.com/). Acesso em: [data atual de acesso].. [i, 127, 129, 131, 133, 134, 137].
+- **Óticas Nidiz** [Website de ótica]. [Informação não disponível nos excertos]. [i, 59].
+- **Revista Maisa** [Fonte de informação]. [Informação não disponível nos excertos]. [i, 59].
+- **YouTube** [Plataforma de vídeos]. Disponível em: [https://www.youtube.com/](https://www.youtube.com/). Acesso em: [data atual de acesso].. [i, 3, 65, 126].
+- **Python** [Linguagem de programação]. Disponível em: [https://www.python.org/](https://www.python.org/). Acesso em: [data atual de acesso].. [i, 23, 68, 119, 127, 139].
+- **SQLAlchemy** [Toolkit SQL para Python]. Disponível em: [https://www.sqlalchemy.org/](https://www.sqlalchemy.org/). Acesso em: [data atual de acesso].. [i, 117].
+- **SQLModel** [Biblioteca Python para interação com bancos de dados]. Disponível em: [https://sqlmodel.tiangolo.com/](https://sqlmodel.tiangolo.com/). Acesso em: [data atual de acesso].. [i, 117].
+- **FastAPI** [Framework web Python]. Disponível em: [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/). Acesso em: [data atual de acesso].. [i, 115].
+- **O’Reilly Media** [Editora]. Disponível em: [https://www.oreilly.com/](https://www.oreilly.com/). Acesso em: [data atual de acesso].. [i, 112].
+- **Apress** [Editora]. Disponível em: [https://www.apress.com/](https://www.apress.com/). Acesso em: [data atual de acesso].. [i, 112].
+- **Pragmatic Bookshelf** [Editora]. Disponível em: [https://pragprog.com/](https://pragprog.com/). Acesso em: [data atual de acesso].. [i, 112].
+- **DeepLearning.ai** [Multi AI Agent Systems with crewAI]. Disponível em: [https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/a8ecj/build-a-crew-to-trailor-job-applications-(code)](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/a8ecj/build-a-crew-to-trailor-job-applications-(code)). Acesso em: [data atual de acesso].. [i, 112].
+

@@ -1,0 +1,9 @@
+research_news:
+  description: "Research and summarize the 5 most relevant AI news stories from this week. Provide a brief summary and cite the original sources for each."
+  expected_output: "A list of 5 AI news stories, each with a summary and source link."
+  agent: "researcher"
+
+write_article:
+  description: "Write an article about the week's top 5 AI news stories, using the researcher's summaries and citing all sources. Ensure the article is clear, engaging, and well-structured."
+  expected_output: "A cohesive article covering the week's 5 most relevant AI news stories, with sources cited."
+  agent: "writer"
